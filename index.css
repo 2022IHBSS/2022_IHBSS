@@ -7,8 +7,8 @@
 	box-sizing: border-box;
 }
 
-#landing {
-	background-image: linear-gradient(to bottom, #010910, #162e3a, #1c5466, #197e92, #0dabbc, #22b5b1, #48bda2, #6dc490, #8aa45e, #988243, #97613e, #874444);
+body {
+	background-image: linear-gradient(to bottom, #034742, #0F666F, #B8FCFE, #2DADB0, #9AE5B7, #CAC028, #F8F072 );
 }
 
 html {
@@ -36,3 +36,13 @@ footer span {
 h1 {
 	font-family: 'Montserrat', sans-serif;
 }
+
+#landing h1{
+	font-size: 65px;
+	font-family: 'Bebas Neue', cursive;
+}
+
+#landing {
+	font-size: 30px;
+}
+
