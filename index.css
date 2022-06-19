@@ -5,10 +5,11 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+	color: black;
 }
 
 body {
-	background-image: linear-gradient(to bottom, #034742, #0F666F, #73CACB, #2DADB0, #9AE5B7, #CAC028, #F8F072 );
+	background-image: linear-gradient(to top right, #034742, #0F666F, #73CACB, #2DADB0, #9AE5B7, #CAC028, #F8F072 );
 }
 
 html {
@@ -35,15 +36,19 @@ footer span {
 
 h1 {
 	font-family: 'Bebas Neue', cursive;
-	font-size: 60px;
+	font-size: 50px;
 }
 
 #landing h1{
-	font-size: 63px;
+	font-size: 50px;
 	font-family: 'Bebas Neue', cursive;
 }
 
 #landing {
-	font-size: 28px;
+	font-size: 20px;
 }
 
+#appointment{
+	font-size: 25px;
+
+}
